@@ -24,3 +24,4 @@ let translateToEnglish = ()=>{
     xhttp.send();
 }
 
+#comments
